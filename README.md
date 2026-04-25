@@ -1,6 +1,6 @@
 # InstaAudit
 Find Instagram users who don’t follow you back using a simple Python script.
-# 📸 InstaAudit
+#  InstaAudit
 
 > Find Instagram users who don’t follow you back using a simple Python script.
 
@@ -13,7 +13,7 @@ Find Instagram users who don’t follow you back using a simple Python script.
 
 ---
 
-## 🚀 Why I Built This
+##  Why I Built This
 
 Manually checking who follows you back on Instagram is repetitive and time-consuming.
 
@@ -21,15 +21,15 @@ Manually checking who follows you back on Instagram is repetitive and time-consu
 
 ---
 
-## ✨ Features
+##  Features
 
-- ⏱️ **Save time** by automating follower/following comparison.
-- 🧹 **Keep a clean following list** with clear non-follower insights.
-- 🧠 **Learn automation** using Python + Selenium in a practical project.
+-  **Save time** by automating follower/following comparison.
+-  **Keep a clean following list** with clear non-follower insights.
+-  **Learn automation** using Python + Selenium in a practical project.
 
 ---
 
-## 🔐 Privacy First (Important)
+##  Privacy First (Important)
 
 Use your credentials directly in your local script:
 
@@ -43,7 +43,7 @@ Your credentials stay on your machine and are **not uploaded, stored, or shared*
 
 ---
 
-## 🧰 Requirements
+##  Requirements
 
 <p>
   <a href="https://code.visualstudio.com/download">
@@ -56,11 +56,11 @@ Your credentials stay on your machine and are **not uploaded, stored, or shared*
 
 ---
 
-## 🛠️ Python PATH Setup
+##  Python PATH Setup
 
 During Python installation on Windows, make sure to check:
 
-- ✅ **Add Python to PATH**
+-  **Add Python to PATH**
 
 If already installed, you can set it manually:
 
@@ -74,7 +74,7 @@ C:\Users\YourUsername\AppData\Local\Programs\Python\PythonXX\
 
 ---
 
-## 📦 Install Libraries
+##  Install Libraries
 
 Based on:
 
@@ -103,7 +103,7 @@ pip3 install selenium
 
 ---
 
-## ⬇️ Download Script
+##  Download Script
 
 <p>
   <a href="https://github.com/dipayansamanta172-lgtm/InstaAudit/raw/main/main.py">
@@ -113,7 +113,7 @@ pip3 install selenium
 
 ---
 
-## 🧭 How to Use (VS Code)
+##  How to Use (VS Code)
 
 1. Open VS Code.
 2. Create/open a project folder.
@@ -123,7 +123,7 @@ pip3 install selenium
 
 ---
 
-## ▶️ Run Command
+##  Run Command
 
 ```bash
 python main.py
@@ -131,7 +131,7 @@ python main.py
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - Selenium will open a browser window to perform actions.
 - Avoid excessive or rapid account actions.
